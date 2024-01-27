@@ -1,0 +1,26 @@
+{
+  "name": "keysapi-backend",
+  "version": "1.0.0",
+  "description": "My take on keys.lol using Node.js/Express. Multiple Coins! BTC, LTC, DOGE & NMC ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuxlee/KeysAPI-Backend.git"
+  },
+  "keywords": [
+    "keys.lol",
+    "directory.io",
+    "privatekeys",
+    "directory"
+  ],
+  "author": "github.com/tuxlee",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tuxlee/KeysAPI-Backend/issues"
+  },
+  "homepage": "https://github.com/tuxlee/KeysAPI-Backend#readme"
+}
