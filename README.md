@@ -10,7 +10,7 @@ To get started, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/coininfo-api.git
+   git clone https://github.com/tuxlee/KeysAPI-Backend.git
    cd coininfo-api
    npm install
    node server.js
