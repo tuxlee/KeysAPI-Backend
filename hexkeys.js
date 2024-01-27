@@ -26,7 +26,7 @@ export default function hexKeys(match) {
 
 function generateHexKeys(startSeed, pageSize) {
   const hexKeys = [];
-  let currentHex = startSeed;
+  let currentHex = startSeed.plus(1);
 
   for (let i = 0; i < pageSize; i++) {
     hexKeys.push(currentHex.toString(16).padStart(64, '0'));
