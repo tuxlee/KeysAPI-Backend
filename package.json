@@ -1,6 +1,7 @@
 {
   "name": "keysapi-backend",
   "version": "1.0.0",
+  "type": "module",
   "description": "My take on keys.lol using Node.js/Express. Multiple Coins! BTC, LTC, DOGE & NMC ",
   "main": "server.js",
   "scripts": {
