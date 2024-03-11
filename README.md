@@ -1,7 +1,7 @@
 # KeysAPI-Backend - Frontend UI SOON TO COME
 My take on keys.lol using Node.js/Express. Multiple Coins! BTC, LTC, DOGE &amp; NMC
 
-Welcome to the CoinInfo API! This open-source project provides information about various cryptocurrencies using a simple RESTful API.
+Welcome to the KeysAPI-Backend! This open-source project provides information about various cryptocurrencies using a simple RESTful API.
 
 ## Installation
 
@@ -10,8 +10,8 @@ To get started, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tuxlee/KeysAPI-Backend.git
-   cd coininfo-api
+   git clone https://github.com/tuxlee/KeysAPI-Backend.git keysapi
+   cd keysapi
    npm install
    node server.js
 
