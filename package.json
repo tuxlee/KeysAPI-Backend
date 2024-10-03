@@ -2,7 +2,7 @@
   "name": "keysapi-backend",
   "version": "1.0.0",
   "type": "module",
-  "description": "My take on keys.lol using Node.js/Express. Multiple Coins! BTC, LTC, DOGE & NMC ",
+  "description": "My take on keys.lol using Node.js/Express. Multiple Coins! BTC, LTC, DOGE & NMC using the Coinkey library.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,6 +16,9 @@
     "keys.lol",
     "directory.io",
     "privatekeys",
+    "coinkey",
+    "bitcoin api",
+    "btc api",
     "directory"
   ],
   "author": "github.com/tuxlee",
